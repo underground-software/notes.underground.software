@@ -1,6 +1,4 @@
-# Notes from the Underground
-
-[HOME](https://underground.software)
+## Notes from the Underground
 
 Project Gutenberg's Notes from the Underground, by Feodor Dostoevsky
 
